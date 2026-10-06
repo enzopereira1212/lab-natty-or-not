@@ -1,51 +1,109 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+🛡️ CyberMind: A Visual Journey Through Cybersecurity
 
-## 🚀 Introdução
+📒 Descrição
 
-> Woooow! Look at this 👀
+CyberMind é um e-book introdutório sobre Cibersegurança criado como projeto do Lab Natty or Not da DIO.
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+O objetivo é apresentar conceitos fundamentais de cybersecurity de maneira simples, visual e acessível para quem está começando na área.
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+O projeto aborda temas como:
 
-### Objetivos
+Tríade CIA
 
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
+Phishing
 
-### Template
+Malware
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+Autenticação e MFA
 
-## 📒 Descrição
-Breve descrição do seu projeto
+Kali Linux
 
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+CTFs
 
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Segurança Web
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
+Inteligência Artificial aplicada à segurança
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Red Team e Blue Team
 
-### Exemplos e Insigths
+Ética e responsabilidade
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+Roadmap de estudos
 
-## Links Interessantes
+🤖 Tecnologias Utilizadas
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
+ChatGPT — planejamento, pesquisa conceitual, redação e revisão do conteúdo
 
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Python — geração e organização do material
+
+ReportLab — geração do e-book em PDF
+
+Git e GitHub — versionamento e publicação do projeto
+
+Markdown — documentação
+
+Inteligência Artificial Generativa — apoio à criação e estruturação do conteúdo
+
+🧐 Processo de Criação
+
+O projeto começou com a definição de um público-alvo: pessoas iniciantes interessadas em cybersecurity.
+
+A partir disso, foi criada uma estrutura dividida em capítulos curtos, começando pelos fundamentos e avançando gradualmente para temas como CTFs, segurança Web, Red Team, Blue Team e especializações.
+
+A IA generativa foi utilizada como ferramenta de apoio para:
+
+Estruturar o conteúdo.
+
+Sugerir explicações simples.
+
+Revisar a organização dos capítulos.
+
+Criar ideias para identidade visual.
+
+Transformar os conceitos em uma linguagem mais acessível.
+
+Auxiliar na documentação do projeto.
+
+O conteúdo final foi revisado e organizado antes da publicação.
+
+🚀 Resultados
+
+O resultado é um e-book introdutório chamado CyberMind: A Visual Journey Through Cybersecurity.
+
+O material foi organizado para funcionar como uma primeira visão da área, apresentando conceitos sem exigir conhecimento técnico avançado.
+
+📕 E-book
+
+O arquivo principal está em:
+
+ebook/CyberMind_A_Visual_Journey_Through_Cybersecurity.pdf
+
+💭 Reflexão
+
+Criar conteúdo com IA parece simples, mas produzir algo realmente útil exige mais do que gerar texto.
+
+Foi necessário definir público, objetivo, estrutura, linguagem e revisar o resultado.
+
+A principal conclusão foi que a IA funciona melhor como uma ferramenta de apoio ao processo criativo. A qualidade final depende das decisões tomadas por quem está desenvolvendo o projeto.
+
+🎯 O que aprendi
+
+Como estruturar um projeto de IA generativa.
+
+Como transformar um tema técnico em conteúdo para iniciantes.
+
+Como documentar um projeto no GitHub.
+
+Como utilizar Git e GitHub como parte de um portfólio.
+
+Como combinar programação, documentação e IA generativa.
+
+⚠️ Ética
+
+Os exemplos relacionados a cybersecurity são apresentados para fins educacionais.
+
+Testes de segurança devem ser realizados somente em sistemas próprios, laboratórios, CTFs ou ambientes nos quais exista autorização.
+
+🏷️ Hashtags
+
+#LabDIONattyOrNot #Cybersecurity #CyberSecurity #DIO #GenerativeAI #GitHub
